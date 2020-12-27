@@ -1,0 +1,56 @@
+body
+{
+background-image: url(image/345330.jpg);
+} 
+
+h1
+{
+color: white;
+text-align: center;
+border: 5px solid #FF00FF;
+background-color: #4B0082;
+border-radius: 30px;
+font-size: 35px;
+width: 700px;
+padding: 0px;
+font-family: 'Audiowide', cursive;
+}
+
+h2
+{
+color: white;
+text-align: center;
+font-family: 'Lobster', cursive;
+}
+
+h3
+{
+color: white;
+text-align: center;
+font-family: 'Permanent Marker', cursive;
+}
+
+
+p
+{
+color: white;
+text-align: center;
+width: 700px;
+font-family: 'Satisfy', cursive;
+}
+
+a
+{
+background-color: #40E0D0;
+color: white;
+padding: 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 10px;
+}
+
+a:hover, a:active
+{
+background-color: #9932CC;
+}
